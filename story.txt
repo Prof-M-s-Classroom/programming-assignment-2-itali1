@@ -1,6 +1,33 @@
-1 | You wake up in a forest clearing. There are two paths. | 2 | 3
-2 | You follow the path to the left and encounter a river. | 4 | 5
-3 | You go right and find an old cabin. | 5 | 6
-4 | You swim across the river and find a treasure chest. | -1 | -1
-5 | You find a hidden passageway that leads to a secret room. | 7 | -1
-6 | The cabin is empty. You find a trapdoor leading downwards. | -1
+1 |You wake up on the ground of what appears to be a forest, after dying, but this does not scare you since it has happened before. Dying and waking up has been part of your life as long as you remember, so you stand up and walk to your right or left | 2 | 3
+2 |You turn right and start walking. After walking for what appeared to be four hours you encounter a lake. You approach the lake to see your reflection and see that you are now a | 4 | 5
+3 |You turn left and start walking. After walking for around 2 hours, you see a village. The body you are now inhabiting, that appears to be a child's from your height has some money in their pockets so you buy some food and water from a stand at the food market that was in the middle of the village. | 6 | 7
+4 |A woman in your 20's, with fiery red hair and red eyes. Suddenly you see something in the woods, you stand up and look at where you heard a sound, you feel someone behind you, and dodge an attack. You start fighting with the person that tried to hit you and then another person appears. You are not surprised with this new fighting skills since they always come with the body you are inhabiting. | 8 | 9
+5 |A child that appeared to be 10 years old. Short brown hair and brown eyes. Suddenly you see something in the woods, you stand up and look at where you heard a sound, you feel pain on your head and black out. | 10 | 11
+6 |Someone then appears behind you, it appears to be some kind of official or soldier, because of their uniform. He says "Young lady, what are you doing here? Have you escaped again? " | 12 | 13
+7 |Someone appears behind you while you are walking and knocks you out. Nobody noticed. | 10 | 11
+8 |You win the fight and use a rope that the attackers were probably were going to use on you. |18 | 28
+9 |You lose, and are knocked out. | 10 | 11
+10 |You wake up in some small dark room, you don't know what to do. What can you possibly do? It seems you have been kidnapped. | 14 | 15
+11|You wake up in a big room on a bed, you are surprised that everything seems luxurious. Weren't you kidnapped? | 16 | 17
+12 |You respond "Umm... No?". He says "Oh young lady, the Duke will be angry again". He takes you to the Duke's residence. | 19 | 20
+13 |You respond "No, what are you talking about? I was given permission", of course you are sure the child was not given permission since they were in the middle of the woods when you woke up in their body. But what else to say but lie. He gives you a look letting you know that he knows you are lying, but does not say anything. He just takes you back to what you assumed is the child's home, and are a little surprised because it seems the child comes from a very rich family. | -1 | -1
+14 |The people who kidnapped you take you out of the room with your head covered, you hear talking "price", "are you sure?" "great quality" |21 | 29
+15 |There is a commotion, it sounds like fighting. Someone opens the door to the room, a worried man, he takes you into his arms and says "I am glad you are alright." |-1 | -1
+16 |Someone that appeared to be a servant opens the door and shouts "Oh! I am glad you are finally awake. Why did you run away again, did you know how worried your father was? You were kidnapped, thank Heaven you were found before they sold you or something worse. | -1 | -1
+17 |Someone that appeared to be a servant opened the door and said "I am glad you are finally awake, your father is waiting for you in his study." |-1 | -1
+18 |You beat them up until they tell you why they attacked you, you decide to | 22 | 23
+19 |When you arrive inside the residence, a servant take you to your room. It seems the Duke was not at the residence, he did not even know that the child had escaped. | -1 | -1
+20 |When you arrive inside the residence, you decide to explore your surroundings. So after a servant guides you to your room, you sneak out. | -1 | -1
+21 | Someone suddenly arrives, you could hear the man you heard earlier running away. "Where is my daughter?" you hear someone yell. Someone runs toward you takes the covering from your face, looks at you, and hugs you. | -1 | -1
+22 |Make them show you where they have taken the people they have kidnap, so you can save them | 24 | 25
+23 |Leave. You don't care about people being kidnapped. Why should you care? Even if you decide to save them it would do no good, just bring problems to you and make this life difficult too. Yeah, let's give up on saving people in this life. | 26 | 27
+24 |You have made it your mission to always do good deeds in every life you are given, maybe that way your bad karma will stop, and you would be finally be able to live a long, happy, and peaceful life. | -1 | -1
+25 |You have decided that you need to end this life cycle of living and dying every year, so you are going to save the people, who you are sure are going to give you some kind of reward for saving them. You plan to use the money for food and traveling equipment. There always a place that exist in every world you end up living in, the place where you first woke up, you never really wanted to go back, but what other option do you have. You want to end this, it has been so many years you don't even remember your first face. | -1 | -1
+26 |You decide to go deeper into the forest, and live there. You did the same in your previous life. Of course, it was boring the last time you did it, but what else can you do, if you go out into the world, problems will come to you and the people around you. You can't do it again, you can't suffer again. You won't do it. So you wait in the forest until your next life comes to you. | -1 | -1
+27 |You decide to go into the village and see what you do after. | -1 | -1
+28 |You don't really care why they attacked you, so you leave them there and decide to continue walking. | -1 | -1
+29 |After some time of arguing the two people seem to come to an agreement. But you are not worried about this people, you are just waiting the right time to use your powers, which must awake any time now. |30 | 31
+30 |You are being taken to a boat. You feel a your fingers burning, a good sign | 32 | 33
+31 |You are being taken to a boat. You still don't feel anything, is this a bad sign |-1 | -1
+32 |You decide that is time to use your powers. |-1 | -1
+33 |You decide to wait, you are curious where you are being taken. |-1 | -1
