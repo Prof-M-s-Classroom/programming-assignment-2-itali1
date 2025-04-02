@@ -101,7 +101,7 @@ public:
 
     // TODO: Function to start the game and traverse the tree based on user input
     void playGame() {
-        cout<<"Welcome to the RPG"<<endl;
+        cout<<"Welcome to the RPG "<<endl;
         Node<T>* current = root;
         int userInput = 1;
         while(userInput != -1 || current != nullptr){
